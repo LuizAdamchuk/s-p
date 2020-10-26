@@ -1,0 +1,13 @@
+#container-signUp {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#container-signUp .content {
+  display: flex;
+  flex-direction: column;
+}
